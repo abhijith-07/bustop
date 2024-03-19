@@ -1,1 +1,5 @@
 venv/
+bustop/__pycache__/
+bustop/settings/__pycache__/
+
+db.sqlite3
